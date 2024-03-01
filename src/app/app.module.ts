@@ -5,7 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { SetmessageComponent } from './setmessage/setmessage.component';
 import { HomeComponent } from './home/home.component';
-import { PagesComponent } from './pages/pages.component';
+
 import { ComponentsComponent } from './components/components.component';
 import { ShowmessageComponent } from './components/showmessage/showmessage.component';
 
@@ -14,7 +14,7 @@ import { ShowmessageComponent } from './components/showmessage/showmessage.compo
     AppComponent,
     SetmessageComponent,
     HomeComponent,
-    PagesComponent,
+
     ComponentsComponent,
     ShowmessageComponent
   ],
